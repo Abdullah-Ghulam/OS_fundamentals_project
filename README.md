@@ -1,5 +1,5 @@
 ## OS_fundamentals_project
-Operating System Fundamentals project, implementing different schedule algorithims in python 
+Operating System project, implementing different schedule algorithims in python 
 (FCFS ,  SJF , RR ...etc)
 Alongside plotting their result
 and calculating the average and total turnaround time (ATA/TTA)
